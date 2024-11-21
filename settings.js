@@ -18,7 +18,7 @@ servicesmtp = 'Gmail' // Ada Gmail dan Sendinblue, sesuaikan dengan kebutuhan. B
 sendemail = process.env.sendemail // Email SMTP
 fromsendemail = process.env.fromsendemail // Email Pengirim SMTP *jika tidak ada email kustom, harus sama dengan Email SMTP
 sendpwmail = process.env.sendpwmail // Kata Sandi Email SMTP
-domain = 'dash-api.aetherz.xyz' // Domain situs web tanpa http atau https
+domain = 'zumfree-9-7eeef7d3cf65.herokuapp.com/' // Domain situs web tanpa http atau https
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
